@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+#Inspired from https://github.com/shriramchandra/speech_recognition
 import speech_recognition as sr
 import os;
 import sys,getopt;
